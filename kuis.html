@@ -15,7 +15,7 @@
 
 		<ul>
 		 	<li><h2>WELCOME EDU COVID-19</li></h2>
-			<li class="active"><a href="home.html">Home</a></li>
+			<li class="active"><a href="index.php">Home</a></li>
 			<li><a href="Pencegahan.html">Pencegahan</a></li>
 			<li><a href="data.html">Data</a></li>
 			<li><a href="kuis.html">Kuis</a></li>
